@@ -1,1 +1,2 @@
-# Hotel-Manage-System
+# Simple-HotaleSayatem
+by ASP.net MVC
